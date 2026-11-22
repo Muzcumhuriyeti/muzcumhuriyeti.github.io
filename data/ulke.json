@@ -19,7 +19,7 @@
     "capitalBy": "pandaadiyette",
     "nameBy": "pyrz_ergn"
   },
-  "followers": 102,
+  "followers": 108,
   "milestones": [
     {
       "at": 100,
@@ -80,9 +80,144 @@
     "pandaadiyette"
   ],
   "cabinet": [],
-  "citizens": [],
-  "sahilLeft": 100,
+  "citizens": [
+    {
+      "u": "sazem101",
+      "no": 1,
+      "since": "2026-11-22T16:23:28+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 1,
+      "floors": 2,
+      "bina": "2 katlı ev",
+      "tags": 1,
+      "roles": []
+    },
+    {
+      "u": "giveemiadollar",
+      "no": 2,
+      "since": "2026-11-22T16:23:35+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 2,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "a_yahya_trk",
+      "no": 3,
+      "since": "2026-11-22T16:24:31+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 3,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "emir__efee",
+      "no": 4,
+      "since": "2026-11-22T16:32:03+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 4,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "aeymen.kahraman",
+      "no": 5,
+      "since": "2026-11-22T16:33:39+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 5,
+      "floors": 2,
+      "bina": "2 katlı ev",
+      "tags": 1,
+      "roles": []
+    },
+    {
+      "u": "____ahmethan_____",
+      "no": 6,
+      "since": "2026-11-22T16:33:56+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 6,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "_osmanarrt_",
+      "no": 7,
+      "since": "2026-11-22T16:39:01+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 7,
+      "floors": 2,
+      "bina": "2 katlı ev",
+      "tags": 1,
+      "roles": []
+    },
+    {
+      "u": "34ci.narakin",
+      "no": 8,
+      "since": "2026-11-22T16:47:44+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 8,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "efe_kayann",
+      "no": 9,
+      "since": "2026-11-22T16:59:29+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 9,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "kevsersahin326",
+      "no": 10,
+      "since": "2026-11-22T17:27:33+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 10,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "muham.medali230",
+      "no": 11,
+      "since": "2026-11-22T20:25:57+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 11,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "pandaadiyette",
+      "no": 12,
+      "since": "2026-11-22T21:01:42+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 12,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": [
+        "Kurucu"
+      ]
+    }
+  ],
+  "sahilLeft": 88,
   "instagram": "https://www.instagram.com/seninulken/",
   "openPost": "https://www.instagram.com/reel/DgDJi1An0g0/",
-  "updatedAt": "2026-11-22T16:10:57.291Z"
+  "updatedAt": "2026-11-22T21:25:55.167Z"
 }
