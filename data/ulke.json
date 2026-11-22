@@ -15,11 +15,11 @@
       "crownColor": "#FF9F1C",
       "er": 0.4
     },
-    "capital": null,
-    "capitalBy": null,
+    "capital": "ÇARŞI",
+    "capitalBy": "pandaadiyette",
     "nameBy": "pyrz_ergn"
   },
-  "followers": 100,
+  "followers": 102,
   "milestones": [
     {
       "at": 100,
@@ -66,15 +66,23 @@
       "value": "Muz Kral",
       "user": null,
       "total": 120
+    },
+    {
+      "no": 3,
+      "label": "Başkent",
+      "value": "ÇARŞI",
+      "user": "pandaadiyette",
+      "total": 158
     }
   ],
   "founders": [
-    "pyrz_ergn"
+    "pyrz_ergn",
+    "pandaadiyette"
   ],
   "cabinet": [],
   "citizens": [],
   "sahilLeft": 100,
   "instagram": "https://www.instagram.com/seninulken/",
   "openPost": "https://www.instagram.com/reel/DgAkv0okZQ8/",
-  "updatedAt": "2026-11-22T12:28:29.497Z"
+  "updatedAt": "2026-11-22T14:50:29.287Z"
 }
