@@ -1,0 +1,80 @@
+{
+  "country": {
+    "name": "Muz Cumhuriyeti",
+    "flag": {
+      "id": 2,
+      "name": "Muz Kral",
+      "colors": [
+        "#FF2D75",
+        "#1A1245"
+      ],
+      "layout": "h2",
+      "emblem": "crown",
+      "emblemColor": "#FFE14D",
+      "emblemColor2": "#1A1245",
+      "crownColor": "#FF9F1C",
+      "er": 0.4
+    },
+    "capital": null,
+    "capitalBy": null,
+    "nameBy": "pyrz_ergn"
+  },
+  "followers": 76,
+  "milestones": [
+    {
+      "at": 100,
+      "label": "Başkent",
+      "done": false
+    },
+    {
+      "at": 250,
+      "label": "Liman",
+      "done": false
+    },
+    {
+      "at": 500,
+      "label": "Stadyum",
+      "done": false
+    },
+    {
+      "at": 1000,
+      "label": "Havalimanı",
+      "done": false
+    },
+    {
+      "at": 2500,
+      "label": "İkinci şehir",
+      "done": false
+    },
+    {
+      "at": 5000,
+      "label": "Yeni ada",
+      "done": false
+    }
+  ],
+  "decisions": [
+    {
+      "no": 1,
+      "label": "Ülkenin adı",
+      "value": "Muz Cumhuriyeti",
+      "user": "pyrz_ergn",
+      "total": 291
+    },
+    {
+      "no": 2,
+      "label": "Bayrak",
+      "value": "Muz Kral",
+      "user": null,
+      "total": 120
+    }
+  ],
+  "founders": [
+    "pyrz_ergn"
+  ],
+  "cabinet": [],
+  "citizens": [],
+  "sahilLeft": 100,
+  "instagram": "https://www.instagram.com/seninulken/",
+  "openPost": "https://www.instagram.com/reel/DgAkv0okZQ8/",
+  "updatedAt": "2026-11-22T12:27:39.304Z"
+}

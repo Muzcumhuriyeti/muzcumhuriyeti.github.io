@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Muz Cumhuriyeti · Nüfus Kütüğü</title>
+<meta name="description" content="Instagram'da yorumlarla kurulan ülke. Kimliğini ve arsanı bul.">
+<meta property="og:title" content="Muz Cumhuriyeti · Nüfus Kütüğü">
+<meta property="og:description" content="Yorum yaz, vatandaş ol. Kimliğini ve arsanı bul.">
+<meta property="og:image" content="profil.png">
+<meta name="theme-color" content="#1B1340">
+<link rel="icon" href="profil.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <canvas id="flag" width="300" height="200" aria-label="Ülke bayrağı"></canvas>
+  <div>
+    <p class="kicker">NÜFUS KÜTÜĞÜ</p>
+    <h1 id="cname">Muz Cumhuriyeti</h1>
+    <p class="sub">Başkent: <b id="capital">seçiliyor</b></p>
+  </div>
+</header>
+
+<section class="stats">
+  <div><b id="sVat">0</b><span>vatandaş</span></div>
+  <div><b id="sSahil">100</b><span>sahil arsası kaldı</span></div>
+  <div><b id="sFol">0</b><span>takipçi</span></div>
+</section>
+
+<section class="card find">
+  <h2>Kimliğini bul</h2>
+  <form id="f" autocomplete="off">
+    <span class="at">@</span><input id="q" placeholder="instagram kullanıcı adın" autocapitalize="none" spellcheck="false" aria-label="Instagram kullanıcı adı">
+    <button>Bul</button>
+  </form>
+  <div id="result" hidden></div>
+</section>
+
+<section class="card">
+  <h2>Ülke haritası</h2>
+  <canvas id="map" width="900" height="900" aria-label="Ülke haritası"></canvas>
+  <p class="legend"><i class="l1"></i>Sahil (ilk 100) <i class="l2"></i>Merkez (101–500) <i class="l3"></i>Tepe (501+)</p>
+</section>
+
+<section class="card">
+  <h2>Nasıl vatandaş olunur?</h2>
+  <ol class="rules">
+    <li><b>Son videoya yorum yaz.</b> Yorum yazan herkes vatandaş olur, kimliği ve arsası burada çıkar (kısa süre içinde).</li>
+    <li><b>İlk 100 kişi sahile</b> yerleşir. Sonrakiler merkez ve tepe mahallelerine.</li>
+    <li><b>Kankanı etiketle:</b> yorumlarında etiketlediğin her farklı hesap arsana +1 kat (en çok 10 kat: Muz Kulesi).</li>
+    <li><b>Kararı yorumlar verir:</b> en çok beğeni alan öneri kazanır, kazanan videoda ve burada adıyla yazılır.</li>
+  </ol>
+  <a class="btn" id="igBtn" href="https://www.instagram.com/seninulken/" target="_blank" rel="noopener">Son videoya git →</a>
+</section>
+
+<section class="card">
+  <h2>Sıradaki hedef</h2>
+  <div id="goal"></div>
+  <ul id="ms" class="ms"></ul>
+</section>
+
+<section class="card">
+  <h2>Kabine</h2>
+  <div id="cab"></div>
+</section>
+
+<section class="card">
+  <h2>Halkın kararları</h2>
+  <ol id="dec" class="dec"></ol>
+</section>
+
+<section class="card two">
+  <div><h2>En yüksek binalar</h2><ol id="top" class="list"></ol></div>
+  <div><h2>Yeni gelenler</h2><ol id="new" class="list"></ol></div>
+</section>
+
+<footer>
+  <p>Bu sayfa <a href="https://www.instagram.com/seninulken/" target="_blank" rel="noopener">@seninulken</a> yorumlarından otomatik üretilir. Kütükten çıkmak için yorumunu silmen yeterli. Ülke hayalidir, arsalar oyundur.</p>
+  <p id="upd"></p>
+</footer>
+<script type="module" src="app.js"></script>
+</body>
+</html>
