@@ -73,13 +73,51 @@
       "value": "ÇARŞI",
       "user": "pandaadiyette",
       "total": 158
+    },
+    {
+      "no": 4,
+      "label": "İlk kabine",
+      "value": "Milli Eğitim Bakanı",
+      "user": "34ci.narakin",
+      "total": 20
     }
   ],
   "founders": [
     "pyrz_ergn",
-    "pandaadiyette"
+    "pandaadiyette",
+    "34ci.narakin",
+    "a_yahya_trk",
+    "kevsersahin326",
+    "efe_kayann",
+    "muham.medali230"
   ],
-  "cabinet": [],
+  "cabinet": [
+    {
+      "value": "Milli Eğitim Bakanı",
+      "user": "34ci.narakin",
+      "likes": 4
+    },
+    {
+      "value": "Milli Savunma Bakanı",
+      "user": "a_yahya_trk",
+      "likes": 3
+    },
+    {
+      "value": "Hamam Böceği Doktor Bakanı",
+      "user": "kevsersahin326",
+      "likes": 3
+    },
+    {
+      "value": "Tatil Bakanı",
+      "user": "efe_kayann",
+      "likes": 1
+    },
+    {
+      "value": "Futbol Bakanlığı",
+      "user": "muham.medali230",
+      "likes": 1
+    }
+  ],
   "citizens": [
     {
       "u": "sazem101",
@@ -112,7 +150,10 @@
       "floors": 1,
       "bina": "Müstakil ev",
       "tags": 0,
-      "roles": []
+      "roles": [
+        "Milli Savunma Bakanı",
+        "Kurucu"
+      ]
     },
     {
       "u": "emir__efee",
@@ -167,7 +208,10 @@
       "floors": 1,
       "bina": "Müstakil ev",
       "tags": 0,
-      "roles": []
+      "roles": [
+        "Milli Eğitim Bakanı",
+        "Kurucu"
+      ]
     },
     {
       "u": "efe_kayann",
@@ -178,7 +222,10 @@
       "floors": 1,
       "bina": "Müstakil ev",
       "tags": 0,
-      "roles": []
+      "roles": [
+        "Tatil Bakanı",
+        "Kurucu"
+      ]
     },
     {
       "u": "kevsersahin326",
@@ -189,7 +236,10 @@
       "floors": 1,
       "bina": "Müstakil ev",
       "tags": 0,
-      "roles": []
+      "roles": [
+        "Hamam Böceği Doktor Bakanı",
+        "Kurucu"
+      ]
     },
     {
       "u": "muham.medali230",
@@ -200,7 +250,10 @@
       "floors": 1,
       "bina": "Müstakil ev",
       "tags": 0,
-      "roles": []
+      "roles": [
+        "Futbol Bakanlığı",
+        "Kurucu"
+      ]
     },
     {
       "u": "pandaadiyette",
@@ -219,5 +272,5 @@
   "sahilLeft": 88,
   "instagram": "https://www.instagram.com/seninulken/",
   "openPost": "https://www.instagram.com/reel/DgDJi1An0g0/",
-  "updatedAt": "2026-11-22T21:25:55.167Z"
+  "updatedAt": "2026-11-23T14:01:46.749Z"
 }
