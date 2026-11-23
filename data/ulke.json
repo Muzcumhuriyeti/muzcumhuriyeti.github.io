@@ -267,10 +267,32 @@
       "roles": [
         "Kurucu"
       ]
+    },
+    {
+      "u": "mcaky_066",
+      "no": 13,
+      "since": "2026-11-23T16:10:27+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 13,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "poyraz_pasa4315",
+      "no": 14,
+      "since": "2026-11-23T16:47:34+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 14,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
     }
   ],
-  "sahilLeft": 88,
+  "sahilLeft": 86,
   "instagram": "https://www.instagram.com/seninulken/",
-  "openPost": "https://www.instagram.com/reel/DgDJi1An0g0/",
-  "updatedAt": "2026-11-23T14:01:46.749Z"
+  "openPost": "https://www.instagram.com/reel/DgFugY2ALc-/",
+  "updatedAt": "2026-11-23T19:09:38.765Z"
 }
