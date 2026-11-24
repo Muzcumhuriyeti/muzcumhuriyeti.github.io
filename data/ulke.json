@@ -138,17 +138,6 @@
       "roles": []
     },
     {
-      "u": "giveemiadollar",
-      "no": 2,
-      "since": "2026-11-22T16:23:35+0000",
-      "mahalle": "Sahil Mahallesi",
-      "parsel": 2,
-      "floors": 1,
-      "bina": "Müstakil ev",
-      "tags": 0,
-      "roles": []
-    },
-    {
       "u": "a_yahya_trk",
       "no": 3,
       "since": "2026-11-22T16:24:31+0000",
@@ -692,10 +681,21 @@
       "bina": "Müstakil ev",
       "tags": 0,
       "roles": []
+    },
+    {
+      "u": "arkwhatdoyouhaave",
+      "no": 51,
+      "since": "2026-11-22T16:23:35+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 51,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
     }
   ],
-  "sahilLeft": 50,
+  "sahilLeft": 49,
   "instagram": "https://www.instagram.com/seninulken/",
   "openPost": "https://www.instagram.com/reel/DgITNf9ji-A/",
-  "updatedAt": "2026-11-24T20:03:03.180Z"
+  "updatedAt": "2026-11-24T20:43:14.056Z"
 }
