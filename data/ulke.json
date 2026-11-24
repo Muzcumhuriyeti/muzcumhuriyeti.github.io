@@ -80,6 +80,13 @@
       "value": "Milli Eğitim Bakanı",
       "user": "34ci.narakin",
       "total": 20
+    },
+    {
+      "no": 5,
+      "label": "animal",
+      "value": "Goril",
+      "user": null,
+      "total": 7
     }
   ],
   "founders": [
@@ -294,5 +301,5 @@
   "sahilLeft": 86,
   "instagram": "https://www.instagram.com/seninulken/",
   "openPost": "https://www.instagram.com/reel/DgFugY2ALc-/",
-  "updatedAt": "2026-11-24T12:18:11.852Z"
+  "updatedAt": "2026-11-24T14:00:40.933Z"
 }
