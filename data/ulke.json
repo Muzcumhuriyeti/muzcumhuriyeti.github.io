@@ -87,6 +87,13 @@
       "value": "Goril",
       "user": null,
       "total": 7
+    },
+    {
+      "no": 6,
+      "label": "hometown",
+      "value": "Bursa",
+      "user": null,
+      "total": 101
     }
   ],
   "founders": [
@@ -769,10 +776,21 @@
       "bina": "Müstakil ev",
       "tags": 0,
       "roles": []
+    },
+    {
+      "u": "aliefe_42206",
+      "no": 59,
+      "since": "2026-11-25T14:11:41+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 59,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
     }
   ],
-  "sahilLeft": 42,
+  "sahilLeft": 41,
   "instagram": "https://www.instagram.com/seninulken/",
   "openPost": "https://www.instagram.com/reel/DgITNf9ji-A/",
-  "updatedAt": "2026-11-25T13:55:54.146Z"
+  "updatedAt": "2026-11-25T14:16:01.711Z"
 }
