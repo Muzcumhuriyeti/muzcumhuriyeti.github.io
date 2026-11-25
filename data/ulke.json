@@ -19,7 +19,7 @@
     "capitalBy": "pandaadiyette",
     "nameBy": "pyrz_ergn"
   },
-  "followers": 110,
+  "followers": 112,
   "milestones": [
     {
       "at": 100,
@@ -798,10 +798,54 @@
       "bina": "Müstakil ev",
       "tags": 0,
       "roles": []
+    },
+    {
+      "u": "alparslan40516",
+      "no": 61,
+      "since": "2026-11-25T16:04:03+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 61,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "mete_han1661",
+      "no": 62,
+      "since": "2026-11-25T16:06:47+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 62,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "hot_privinizz",
+      "no": 63,
+      "since": "2026-11-25T16:08:35+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 63,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "abdulhadi_uray",
+      "no": 64,
+      "since": "2026-11-25T16:12:19+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 64,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
     }
   ],
-  "sahilLeft": 40,
+  "sahilLeft": 36,
   "instagram": "https://www.instagram.com/seninulken/",
-  "openPost": "https://www.instagram.com/reel/DgITNf9ji-A/",
-  "updatedAt": "2026-11-25T14:48:32.154Z"
+  "openPost": "https://www.instagram.com/reel/DgK39GAKuPw/",
+  "updatedAt": "2026-11-25T16:16:33.396Z"
 }
