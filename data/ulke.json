@@ -787,10 +787,21 @@
       "bina": "Müstakil ev",
       "tags": 0,
       "roles": []
+    },
+    {
+      "u": "z.efeafacan42",
+      "no": 60,
+      "since": "2026-11-25T14:46:03+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 60,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
     }
   ],
-  "sahilLeft": 41,
+  "sahilLeft": 40,
   "instagram": "https://www.instagram.com/seninulken/",
   "openPost": "https://www.instagram.com/reel/DgITNf9ji-A/",
-  "updatedAt": "2026-11-25T14:16:01.711Z"
+  "updatedAt": "2026-11-25T14:48:32.154Z"
 }
