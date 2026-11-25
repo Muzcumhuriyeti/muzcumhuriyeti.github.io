@@ -19,7 +19,7 @@
     "capitalBy": "pandaadiyette",
     "nameBy": "pyrz_ergn"
   },
-  "followers": 109,
+  "followers": 110,
   "milestones": [
     {
       "at": 100,
@@ -692,10 +692,87 @@
       "bina": "Müstakil ev",
       "tags": 0,
       "roles": []
+    },
+    {
+      "u": "cihangir01_34",
+      "no": 52,
+      "since": "2026-11-24T21:23:31+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 52,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "mehmet_talha_celikel42",
+      "no": 53,
+      "since": "2026-11-25T05:18:54+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 53,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "belina1639y",
+      "no": 54,
+      "since": "2026-11-25T05:25:43+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 54,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "erenergun1952",
+      "no": 55,
+      "since": "2026-11-25T09:58:28+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 55,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "sahsevndliyev",
+      "no": 56,
+      "since": "2026-11-25T12:25:45+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 56,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "suzan33814",
+      "no": 57,
+      "since": "2026-11-25T12:27:59+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 57,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "belisesma08",
+      "no": 58,
+      "since": "2026-11-25T13:10:21+0000",
+      "mahalle": "Sahil Mahallesi",
+      "parsel": 58,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
     }
   ],
-  "sahilLeft": 49,
+  "sahilLeft": 42,
   "instagram": "https://www.instagram.com/seninulken/",
   "openPost": "https://www.instagram.com/reel/DgITNf9ji-A/",
-  "updatedAt": "2026-11-24T20:43:14.056Z"
+  "updatedAt": "2026-11-25T13:55:54.146Z"
 }
