@@ -23478,17 +23478,6 @@
       "roles": []
     },
     {
-      "u": "deniz.2dg",
-      "no": 2147,
-      "since": "2026-11-26T15:43:52+0000",
-      "mahalle": "Tepe Mahallesi",
-      "parsel": 1647,
-      "floors": 1,
-      "bina": "Müstakil ev",
-      "tags": 0,
-      "roles": []
-    },
-    {
       "u": "omerfrk_.16",
       "no": 2148,
       "since": "2026-11-26T15:44:23+0000",
@@ -29165,11 +29154,77 @@
       "roles": []
     },
     {
-      "u": "elabusegezer",
-      "no": 2667,
-      "since": "2026-11-26T21:24:07+0000",
+      "u": "barisckcc04",
+      "no": 2668,
+      "since": "2026-11-26T21:25:21+0000",
       "mahalle": "Tepe Mahallesi",
-      "parsel": 2167,
+      "parsel": 2168,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "begum.eb",
+      "no": 2669,
+      "since": "2026-11-26T21:29:52+0000",
+      "mahalle": "Tepe Mahallesi",
+      "parsel": 2169,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "the_egmo",
+      "no": 2670,
+      "since": "2026-11-26T21:31:15+0000",
+      "mahalle": "Tepe Mahallesi",
+      "parsel": 2170,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "efem_uammer",
+      "no": 2671,
+      "since": "2026-11-26T21:32:26+0000",
+      "mahalle": "Tepe Mahallesi",
+      "parsel": 2171,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "hamzaciceekk0",
+      "no": 2672,
+      "since": "2026-11-26T21:34:08+0000",
+      "mahalle": "Tepe Mahallesi",
+      "parsel": 2172,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "ibrahim_yurtsever44",
+      "no": 2673,
+      "since": "2026-11-26T21:41:45+0000",
+      "mahalle": "Tepe Mahallesi",
+      "parsel": 2173,
+      "floors": 1,
+      "bina": "Müstakil ev",
+      "tags": 0,
+      "roles": []
+    },
+    {
+      "u": "mustafa732p",
+      "no": 2674,
+      "since": "2026-11-26T21:42:13+0000",
+      "mahalle": "Tepe Mahallesi",
+      "parsel": 2174,
       "floors": 1,
       "bina": "Müstakil ev",
       "tags": 0,
@@ -29179,5 +29234,5 @@
   "sahilLeft": 0,
   "instagram": "https://www.instagram.com/seninulken/",
   "openPost": "https://www.instagram.com/reel/DgK39GAKuPw/",
-  "updatedAt": "2026-11-26T21:25:10.367Z"
+  "updatedAt": "2026-11-26T21:46:10.049Z"
 }
